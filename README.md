@@ -42,3 +42,4 @@ available for all stores all the time. Any missing value is marked with an NA.
 - Labor Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13
 - Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13
 - Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
+
